@@ -31,8 +31,10 @@ Wire and plug: https://www.sparkfun.com/products/9916
 REQUIRES THE FOLLOWING LIBRARIES: 
 
 https://github.com/adafruit/Adafruit-GFX-Library
-https://github.com/adafruit/RGB-matrix-Panel
 https://github.com/madsci1016/Arduino-EasyTransfer
+
+The following library has been modified and is included in the repository in its modified state:
+https://github.com/adafruit/RGB-matrix-Panel
 
 
 To wire the display to the backpack arduino (Without my PCB), see:
